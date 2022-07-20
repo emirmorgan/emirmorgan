@@ -17,8 +17,6 @@
   I'm a Jr. Frontend Developer, currently improving myself on ReactJS. Studied Computer Programming. You can learn so much more about me via my social links, feel free to ask anything.
 </p>
 
-<br>
-
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=25 height=25> Languages and tools</h3>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"></code>
