@@ -14,7 +14,7 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" width=25 height=25>  About Me</h3>
 <p>
-  I'm a Jr. Frontend Developer, currently improving myself on ReactJS. Studied Computer Programming. You can learn so much more about me via my social links, feel free to ask anything.
+  I'm a Frontend Developer, currently improving myself on ReactJS. Studied Computer Programming. You can learn so much more about me via my social links, feel free to ask anything.
 </p>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=25 height=25> Languages and tools</h3>
