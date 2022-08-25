@@ -22,6 +22,7 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
 <code><img height="30" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/redux.png""/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/tailwindcss.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/sass.png"></code>
