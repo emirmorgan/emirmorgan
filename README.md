@@ -8,9 +8,9 @@
  -->
 
 <h2 align="center">Hi There, I am <b>Emir <img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983" width=45 height=45></b></h2>
-<a href="https://www.linkedin.com/in/aemirdnr/"><img width=45 height=45 src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
-<a href="https://www.twitter.com/aemirdnr"><img width=45 height=45 src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
-<a href="mailto:aemirdnr@gmail.com"><img width=45 height=45 src="https://img.icons8.com/color/48/000000/apple-mail.png"></a>
+<a href="https://www.linkedin.com/in/emirmorgan/"><img width=45 height=45 src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+<a href="https://www.twitter.com/emirmrg"><img width=45 height=45 src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
+<!-- <a href="mailto:"><img width=45 height=45 src="https://img.icons8.com/color/48/000000/apple-mail.png"></a> -->
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" width=25 height=25>  About Me</h3>
 <p>
