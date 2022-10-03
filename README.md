@@ -36,10 +36,3 @@
 
 <br>
 <br>
-
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=aemirdnr&show_icons=true&bg_color=fff&text_color=45484d&icon_color=45484d&title_color=45484d"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aemirdnr&theme=icegray"/>
-</details>
