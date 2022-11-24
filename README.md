@@ -32,6 +32,7 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/96/firebase.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"></code>
 <code><img height="30" src="https://img.icons8.com/fluency/48/000000/docker.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>
