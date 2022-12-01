@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aemirdnr&color=fff&lcolor=000)
+
 <img align="right" height="400" width="275" src="https://i.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif"/>
 <!--
  [GIF Sources]
