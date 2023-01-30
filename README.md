@@ -14,7 +14,7 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" width=25 height=25>  About Me</h3>
 <p>
-  I'm a Frontend Developer, currently improving myself on ReactJS. Studied Computer Programming. You can learn so much more about me via my social links, feel free to ask anything.
+  I'm a Frontend Developer, currently improving myself on ReactJS, VueJS and NodeJS. Studied Computer Programming. You can learn so much more about me via my social links, feel free to ask anything.
 </p>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width=25 height=25> Languages and tools</h3>
@@ -29,6 +29,10 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/sass.png"/></code>
+<code><img height="30" src="https://testing-library.com/img/octopus-128x128.png"/></code>
+<code><img height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png"/></code>
+<code><img height="30" src="https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-dark.png"/></code>
 <code><img height="30" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></code>
