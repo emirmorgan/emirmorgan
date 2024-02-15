@@ -12,6 +12,7 @@ I'm a Full-Stack Developer, currently improving myself on .NET, Next.js, React.j
 <code><img height="28" src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/></code>
 <code><img height="28" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/></code>
 <code><img height="28" src="https://img.icons8.com/color/48/null/nextjs.png"/></code>
+<code><img height="28" src="https://img.icons8.com/color/48/angularjs.png"/></code>
 <code><img height="28" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></code>
 <code><img height="28" src="https://img.icons8.com/color/48/000000/redux.png"/></code>
 <code><img height="28" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></code>
